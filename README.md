@@ -1,6 +1,6 @@
 # Hi, I'm Milashini Saravanan 👋
 
-🎓 Bachelor of Information Technology (Hons) in Artificial Intelligence
+🎓 Bachelor of Information Technology (Hons)-Major in Artificial Intelligence
 
 I'm passionate about Software Quality Assurance, Test Automation, Artificial Intelligence, and Web Development. I enjoy building reliable software, learning new technologies, and solving real-world problems through innovative solutions.
 

@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Milashini Saravanan 👋
 
-<!--
-**milashinis/milashinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Information Technology (Hons) in Artificial Intelligence
 
-Here are some ideas to get you started:
+I'm passionate about Software Quality Assurance, Test Automation, Artificial Intelligence, and Web Development. I enjoy building reliable software, learning new technologies, and solving real-world problems through innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technical Skills
+
+### Testing
+- Manual Testing
+- Functional Testing
+- STLC
+- SIT
+- Test Case Design
+
+### Automation
+- Selenium
+- Tosca
+- Java
+- Maven
+- Cucumber
+
+### Programming
+- Python
+- Java
+- PHP
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+### Tools
+- Jira
+- Git
+- GitHub
+- AS400
+- VS Code
+- MySQL
+
+---
+
+## 🚀 Featured Projects
+
+### AI-Powered Course & Career Advisory System
+- Laravel
+- PHP
+- MySQL
+- Bootstrap
+- Machine Learning
+
+### Selenium Automation Framework
+- Selenium WebDriver
+- Java
+- TestNG
+- Maven
+- Page Object Model
+
+### Genetic Algorithm TV Scheduling
+- Python
+- Genetic Algorithm
+
+### IoT Crop Protection System
+- Arduino
+- Sensors
+
+---

@@ -69,19 +69,20 @@ I’m interested in combining **technology + design + usability** to create soft
 
 ## I'm Interested In
 
-**Software QA Engineer**
-**QA Automation Tester / Engineer**
-**Software Test Engineer**
-**QA Analyst** 
-**Business Analyst**
-**Graphic designer/UI&UX Designer** 
+* **Software QA Engineer**
+* **QA Automation Tester / Engineer**
+* **Software Test Engineer**
+* **QA Analyst** 
+* **Business Analyst**
+* **Graphic designer/UI&UX Designer** 
 
 ---
 
 ### Let's Connect
 
-**LinkedIn:** Milashini Saravanan
-**GitHub:** [@milashinis](https://github.com/milashinis)
+* **LinkedIn:** Milashini Saravanan
+
+* **GitHub:** [@milashinis](https://github.com/milashinis)
 
 ⭐ Feel free to explore my repositories and projects!
 

@@ -1,65 +1,87 @@
-# Hi,👋 I'm Milashini Saravanan 
+# 👋 Hi, I'm Milashini Saravanan
 
-🎓 Bachelor of Information Technology (Hons) - Major in Artificial Intelligence
+###  IT Graduate | Software QA & Test Automation | AI
 
-I'm passionate about Software Quality Assurance, Test Automation, Artificial Intelligence, and Web Development. I enjoy building reliable software, learning new technologies, and solving real-world problems through innovative solutions.
+I’m an **Information Technology graduate majoring in Artificial Intelligence**, with practical experience in **Software Quality Assurance and testing** through my internship in enterprise banking applications.
 
----
-
-## 💻 Technical Skills
-
-### Testing
-- Manual Testing
-- Functional Testing
-- STLC
-- SIT
-- Test Case Design
-
-### Automation
-- Selenium
-- Tosca  
-
-### Programming
-- Python
-- Java
-- PHP
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-### Tools
-- Jira
-- Git
-- GitHub
-- AS400
-- VS Code
-- MySQL
+ **QA & Testing** •  **Test Automation** •  **AI** •  **UI/UX & Graphic Design**
 
 ---
 
-## 🚀 Featured Projects
+## What I Work With
 
-### AI-Powered Course & Career Advisory System
-- Laravel
-- PHP
-- MySQL
-- Bootstrap
-- Machine Learning
+### Software Quality Assurance
 
-### Selenium Automation Framework
-- Selenium WebDriver
-- Java
-- TestNG
-- Maven
-- Page Object Model
+`Manual Testing` `Functional Testing` `Test Case Design` `Test Execution` `SIT` `STLC` `SDLC` `Jira`
 
-### Genetic Algorithm TV Scheduling
-- Python
-- Genetic Algorithm
+### Test Automation
 
-### IoT Crop Protection System
-- Arduino
-- Sensors
+`Selenium WebDriver` `Tricentis Tosca` `TestNG` `Maven` `Cucumber` `POM`
+
+### Technical Skills
+
+`Java (Basic)` `Python (Basic)` `SQL (Basic)` `PHP` `MySQL` `Laravel` `GitHub`
 
 ---
+
+##  QA Experience
+
+**Software Quality Assurance Intern — GienTech Malaysia**
+
+Worked with enterprise **UOB banking applications**, supporting software testing activities including:
+
+* Manual & functional testing
+* Test case design, refinement and execution
+* GenAI-assisted test case generation and validation
+* Defect tracking using Jira
+* AS400 testing
+* Personal Internet Banking (PIB) testing
+* Requirements validation against FSD
+* Basic SQL and test data handling
+
+---
+
+## Featured Projects
+
+| Project                              | Focus                | Technologies                           |
+| -------------------------------------| -------------------- | -------------------------------------- |
+|  **Selenium Automation Framework**   | Web Test Automation  | Java • Selenium • TestNG • Maven • POM |
+|  **AI Course & Career Advisor**      | AI + Web Development | Laravel • PHP • MySQL • Bootstrap      |
+|  **Genetic Algorithm TV Scheduling** | AI / Optimisation    | Python • Genetic Algorithm             |
+|  **IoT Crop Protection System**      | IoT                  | Arduino • Sensors                      |
+
+
+---
+
+## Beyond Coding
+
+I also enjoy working on the **creative side of technology**:
+
+UI/UX Design
+Graphic Design
+Web Design
+Artificial Intelligence
+Creative Problem Solving
+
+I’m interested in combining **technology + design + usability** to create software that is not only functional, but also easy and enjoyable to use.
+
+---
+
+## I'm Interested In
+
+**Software QA Engineer**
+**QA Automation Tester / Engineer**
+**Software Test Engineer**
+**QA Analyst** 
+**Business Analyst**
+**Graphic designer/UI&UX Designer** 
+
+---
+
+### Let's Connect
+
+**LinkedIn:** Milashini Saravanan
+**GitHub:** [@milashinis](https://github.com/milashinis)
+
+⭐ Feel free to explore my repositories and projects!
+

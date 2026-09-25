@@ -57,11 +57,11 @@ Worked with enterprise **UOB banking applications**, supporting software testing
 
 I also enjoy working on the **creative side of technology**:
 
-UI/UX Design
-Graphic Design
-Web Design
-Artificial Intelligence
-Creative Problem Solving
+* UI/UX Design
+* Graphic Design
+* Web Design
+* Artificial Intelligence
+* Creative Problem Solving
 
 I’m interested in combining **technology + design + usability** to create software that is not only functional, but also easy and enjoyable to use.
 
